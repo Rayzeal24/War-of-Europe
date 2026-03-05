@@ -1,0 +1,4 @@
+{
+  "infantry": { "hp": 10, "atk": 3, "def": 2, "mp": 2 },
+  "tank":     { "hp": 16, "atk": 6, "def": 4, "mp": 3 }
+}
