@@ -1,0 +1,5 @@
+[
+  { "id": "paris",  "name": "Paris",  "owner": "FRA", "neighbors": ["alsace"] },
+  { "id": "alsace", "name": "Alsace", "owner": "FRA", "neighbors": ["paris", "berlin"] },
+  { "id": "berlin", "name": "Berlin", "owner": "GER", "neighbors": ["alsace"] }
+]
