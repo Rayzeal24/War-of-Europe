@@ -1,0 +1,4 @@
+[
+  { "tag": "FRA", "name": "France", "money": 120, "industry": 12 },
+  { "tag": "GER", "name": "Germany", "money": 120, "industry": 14 }
+]
